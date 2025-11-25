@@ -1,0 +1,16 @@
+﻿@model IEnumerable<Final_Project_Hobbies.Models.Game>
+@{
+    ViewData["Title"] = "Game Database";
+}
+<h1>Game Database</h1>
+<table>
+    <thead>
+        <tr><th>Title</th><th>Genre</th></tr>
+    </thead>
+    <tbody>
+        @foreach (var game in Model)
+        {
+            <tr><td>@game.Title</td><td>@game.Genre</td></tr>
+        }
+    </tbody>
+</table>
