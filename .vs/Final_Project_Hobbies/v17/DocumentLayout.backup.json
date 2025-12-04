@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JoshR\\source\\repos\\crescimv\\IT3047-Final-Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98C5FF4A-604A-4BC0-A85F-5D1ADCD1423C}|Final_Project_Hobbies\\Final_Project_Hobbies.csproj|c:\\users\\joshr\\source\\repos\\crescimv\\it3047-final-project\\final_project_hobbies\\final_project_hobbies.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{98C5FF4A-604A-4BC0-A85F-5D1ADCD1423C}|Final_Project_Hobbies\\Final_Project_Hobbies.csproj|solutionrelative:final_project_hobbies\\final_project_hobbies.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C5FF4A-604A-4BC0-A85F-5D1ADCD1423C}|Final_Project_Hobbies\\Final_Project_Hobbies.csproj|c:\\users\\joshr\\source\\repos\\crescimv\\it3047-final-project\\final_project_hobbies\\views\\games\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98C5FF4A-604A-4BC0-A85F-5D1ADCD1423C}|Final_Project_Hobbies\\Final_Project_Hobbies.csproj|solutionrelative:final_project_hobbies\\views\\games\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C5FF4A-604A-4BC0-A85F-5D1ADCD1423C}|Final_Project_Hobbies\\Final_Project_Hobbies.csproj|c:\\users\\joshr\\source\\repos\\crescimv\\it3047-final-project\\final_project_hobbies\\views\\people\\joshua.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98C5FF4A-604A-4BC0-A85F-5D1ADCD1423C}|Final_Project_Hobbies\\Final_Project_Hobbies.csproj|solutionrelative:final_project_hobbies\\views\\people\\joshua.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C5FF4A-604A-4BC0-A85F-5D1ADCD1423C}|Final_Project_Hobbies\\Final_Project_Hobbies.csproj|c:\\users\\joshr\\source\\repos\\crescimv\\it3047-final-project\\final_project_hobbies\\views\\people\\miles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98C5FF4A-604A-4BC0-A85F-5D1ADCD1423C}|Final_Project_Hobbies\\Final_Project_Hobbies.csproj|solutionrelative:final_project_hobbies\\views\\people\\miles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C5FF4A-604A-4BC0-A85F-5D1ADCD1423C}|Final_Project_Hobbies\\Final_Project_Hobbies.csproj|c:\\users\\joshr\\source\\repos\\crescimv\\it3047-final-project\\final_project_hobbies\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98C5FF4A-604A-4BC0-A85F-5D1ADCD1423C}|Final_Project_Hobbies\\Final_Project_Hobbies.csproj|solutionrelative:final_project_hobbies\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C5FF4A-604A-4BC0-A85F-5D1ADCD1423C}|Final_Project_Hobbies\\Final_Project_Hobbies.csproj|c:\\users\\joshr\\source\\repos\\crescimv\\it3047-final-project\\final_project_hobbies\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98C5FF4A-604A-4BC0-A85F-5D1ADCD1423C}|Final_Project_Hobbies\\Final_Project_Hobbies.csproj|solutionrelative:final_project_hobbies\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C5FF4A-604A-4BC0-A85F-5D1ADCD1423C}|Final_Project_Hobbies\\Final_Project_Hobbies.csproj|c:\\users\\joshr\\source\\repos\\crescimv\\it3047-final-project\\final_project_hobbies\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98C5FF4A-604A-4BC0-A85F-5D1ADCD1423C}|Final_Project_Hobbies\\Final_Project_Hobbies.csproj|solutionrelative:final_project_hobbies\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C5FF4A-604A-4BC0-A85F-5D1ADCD1423C}|Final_Project_Hobbies\\Final_Project_Hobbies.csproj|c:\\users\\joshr\\source\\repos\\crescimv\\it3047-final-project\\final_project_hobbies\\controllers\\peoplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98C5FF4A-604A-4BC0-A85F-5D1ADCD1423C}|Final_Project_Hobbies\\Final_Project_Hobbies.csproj|solutionrelative:final_project_hobbies\\controllers\\peoplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C5FF4A-604A-4BC0-A85F-5D1ADCD1423C}|Final_Project_Hobbies\\Final_Project_Hobbies.csproj|c:\\users\\joshr\\source\\repos\\crescimv\\it3047-final-project\\final_project_hobbies\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98C5FF4A-604A-4BC0-A85F-5D1ADCD1423C}|Final_Project_Hobbies\\Final_Project_Hobbies.csproj|solutionrelative:final_project_hobbies\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C5FF4A-604A-4BC0-A85F-5D1ADCD1423C}|Final_Project_Hobbies\\Final_Project_Hobbies.csproj|c:\\users\\joshr\\source\\repos\\crescimv\\it3047-final-project\\final_project_hobbies\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98C5FF4A-604A-4BC0-A85F-5D1ADCD1423C}|Final_Project_Hobbies\\Final_Project_Hobbies.csproj|solutionrelative:final_project_hobbies\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\JoshR\\source\\repos\\crescimv\\IT3047-Final-Project\\Final_Project_Hobbies\\Views\\Games\\List.cshtml",
+              "RelativeDocumentMoniker": "Final_Project_Hobbies\\Views\\Games\\List.cshtml",
+              "ToolTip": "C:\\Users\\JoshR\\source\\repos\\crescimv\\IT3047-Final-Project\\Final_Project_Hobbies\\Views\\Games\\List.cshtml",
+              "RelativeToolTip": "Final_Project_Hobbies\\Views\\Games\\List.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwBwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-04T22:15:37.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\JoshR\\source\\repos\\crescimv\\IT3047-Final-Project\\Final_Project_Hobbies\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Final_Project_Hobbies\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\JoshR\\source\\repos\\crescimv\\IT3047-Final-Project\\Final_Project_Hobbies\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Final_Project_Hobbies\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-04T22:15:28.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\JoshR\\source\\repos\\crescimv\\IT3047-Final-Project\\Final_Project_Hobbies\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Final_Project_Hobbies\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\JoshR\\source\\repos\\crescimv\\IT3047-Final-Project\\Final_Project_Hobbies\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Final_Project_Hobbies\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAcwEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-04T22:09:19.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PeopleController.cs",
+              "DocumentMoniker": "C:\\Users\\JoshR\\source\\repos\\crescimv\\IT3047-Final-Project\\Final_Project_Hobbies\\Controllers\\PeopleController.cs",
+              "RelativeDocumentMoniker": "Final_Project_Hobbies\\Controllers\\PeopleController.cs",
+              "ToolTip": "C:\\Users\\JoshR\\source\\repos\\crescimv\\IT3047-Final-Project\\Final_Project_Hobbies\\Controllers\\PeopleController.cs",
+              "RelativeToolTip": "Final_Project_Hobbies\\Controllers\\PeopleController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T22:05:55.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\JoshR\\source\\repos\\crescimv\\IT3047-Final-Project\\Final_Project_Hobbies\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Final_Project_Hobbies\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\JoshR\\source\\repos\\crescimv\\IT3047-Final-Project\\Final_Project_Hobbies\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Final_Project_Hobbies\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T22:05:46.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\JoshR\\source\\repos\\crescimv\\IT3047-Final-Project\\Final_Project_Hobbies\\Models\\Game.cs",
+              "RelativeDocumentMoniker": "Final_Project_Hobbies\\Models\\Game.cs",
+              "ToolTip": "C:\\Users\\JoshR\\source\\repos\\crescimv\\IT3047-Final-Project\\Final_Project_Hobbies\\Models\\Game.cs",
+              "RelativeToolTip": "Final_Project_Hobbies\\Models\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T22:05:44.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\JoshR\\source\\repos\\crescimv\\IT3047-Final-Project\\Final_Project_Hobbies\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Final_Project_Hobbies\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\JoshR\\source\\repos\\crescimv\\IT3047-Final-Project\\Final_Project_Hobbies\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Final_Project_Hobbies\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-04T21:58:23.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Joshua.cshtml",
+              "DocumentMoniker": "C:\\Users\\JoshR\\source\\repos\\crescimv\\IT3047-Final-Project\\Final_Project_Hobbies\\Views\\People\\Joshua.cshtml",
+              "RelativeDocumentMoniker": "Final_Project_Hobbies\\Views\\People\\Joshua.cshtml",
+              "ToolTip": "C:\\Users\\JoshR\\source\\repos\\crescimv\\IT3047-Final-Project\\Final_Project_Hobbies\\Views\\People\\Joshua.cshtml",
+              "RelativeToolTip": "Final_Project_Hobbies\\Views\\People\\Joshua.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-04T21:52:49.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Final_Project_Hobbies.csproj",
+              "DocumentMoniker": "C:\\Users\\JoshR\\source\\repos\\crescimv\\IT3047-Final-Project\\Final_Project_Hobbies\\Final_Project_Hobbies.csproj",
+              "RelativeDocumentMoniker": "Final_Project_Hobbies\\Final_Project_Hobbies.csproj",
+              "ToolTip": "C:\\Users\\JoshR\\source\\repos\\crescimv\\IT3047-Final-Project\\Final_Project_Hobbies\\Final_Project_Hobbies.csproj",
+              "RelativeToolTip": "Final_Project_Hobbies\\Final_Project_Hobbies.csproj",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-01T20:32:32.339Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "255ed956-6724-4d05-9ef2-5eef736a92c1",
+        "Display": 2,
+        "X": 191,
+        "Y": 257,
+        "Width": 1907,
+        "Height": 616,
+        "WindowState": 2
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Miles.cshtml",
+              "DocumentMoniker": "C:\\Users\\JoshR\\source\\repos\\crescimv\\IT3047-Final-Project\\Final_Project_Hobbies\\Views\\People\\Miles.cshtml",
+              "RelativeDocumentMoniker": "Final_Project_Hobbies\\Views\\People\\Miles.cshtml",
+              "ToolTip": "C:\\Users\\JoshR\\source\\repos\\crescimv\\IT3047-Final-Project\\Final_Project_Hobbies\\Views\\People\\Miles.cshtml",
+              "RelativeToolTip": "Final_Project_Hobbies\\Views\\People\\Miles.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-04T21:41:20.398Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
