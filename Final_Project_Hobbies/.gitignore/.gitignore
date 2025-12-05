@@ -1,39 +1,50 @@
-# Build artifacts
-bin/
-obj/
-out/
-
-# User-specific files
-*.user
+# Visual Studio cache and settings
+.vs/
 *.suo
+*.user
 *.userosscache
 *.sln.docstates
 
-# Visual Studio cache
-.vs/
-.vscode/
-*.dbmdl
-*.pidb
-*.svclog
+# Build results
+bin/
+obj/
+Debug/
+Release/
 
-# ASP.NET Core secrets
-secrets.json
+# ASP.NET scaffolding
+Generated_Code/
 
-# Entity Framework
-Migrations/
-
-# Logs
+# Logs and database files
 *.log
-
-# Node modules (if using frontend packages)
-node_modules/
-
-# Static assets cache
-wwwroot/lib/
-
-# OS files
-.DS_Store
-Thumbs.db
+*.ldf
+*.mdf
 
 # Publish output
 publish/
+wwwroot/lib/
+
+# Resharper / Rider
+_ReSharper*/
+*.DotSettings.user
+
+# NuGet packages
+*.nupkg
+packages/
+*.snupkg
+
+# Backup & temp files
+*.bak
+*.tmp
+*.temp
+*.swp
+
+# JetBrains Rider
+.idea/
+
+# VS Code
+.vscode/
+
+# Others
+*.db
+*.db-shm
+*.db-wal
